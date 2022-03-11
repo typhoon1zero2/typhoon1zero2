@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @typhoon1zero2
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ptnguyen617@yahoo.com
 
 <!---
