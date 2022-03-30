@@ -4,7 +4,7 @@
 
 * HTML, CSS, JavaScript
 * NodeJS, Express
-* MongoDB
+* MongoDB, Mongoose
 * React
 - 📫 How to reach me ptnguyen617@yahoo.com
 <!---
