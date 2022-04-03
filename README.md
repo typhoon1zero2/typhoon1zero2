@@ -1,7 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=your-github-typhoon1zero2&label=PROFILE+VIEWS)
-<br />
+<hr />
 <br />
 👋 Hi, I’m Phong Nguyen
+<br />
+<br />
  
 `I am currently a full-stack software engineer student at General Assembly. I have a passion in coding and would love to collaborate on any projects. Here is a list of my skills:`
 
@@ -20,6 +22,7 @@
 <a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
+<hr />
 
 ### Connect with me
 
