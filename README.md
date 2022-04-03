@@ -27,7 +27,7 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=typhoon1zero2&show_icons=true&locale=en&layout=compact" alt="typhoon1zero2" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=typhoon1zero2&" alt="typhoon1zero2" /></p>
+
 <!---
 typhoon1zero2/typhoon1zero2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
