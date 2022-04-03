@@ -1,4 +1,6 @@
+
 👋 Hi, I’m Phong Nguyen
+  
 
 `I am currently a full-stack software engineer student at General Assembly. I have a passion in coding and would love to collaborate on any projects. Here is a list of my skills:`
 
@@ -15,7 +17,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
 <a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
 
 ### Connect with me
 
@@ -25,8 +27,11 @@
 
 📫 How to reach me **ptnguyen617@yahoo.com**
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=typhoon1zero2&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=typhoon1zero2&show_icons=true&locale=en&layout=compact" alt="typhoon1zero2" /></p>
+
+![](https://komarev.com/ghpvc/?username=typhoon1zero2)
 
 <!---
 typhoon1zero2/typhoon1zero2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
