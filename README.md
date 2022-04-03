@@ -1,4 +1,6 @@
-
+![](https://komarev.com/ghpvc/?username=your-github-typhoon1zero2&label=PROFILE+VIEWS)
+<br />
+<br />
 👋 Hi, I’m Phong Nguyen
   
 
@@ -31,7 +33,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=typhoon1zero2&show_icons=true&locale=en&layout=compact" alt="typhoon1zero2" /></p>
 
-![](https://komarev.com/ghpvc/?username=typhoon1zero2)
+
 
 <!---
 typhoon1zero2/typhoon1zero2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
