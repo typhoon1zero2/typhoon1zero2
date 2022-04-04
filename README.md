@@ -24,20 +24,46 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
 <hr />
 
-### Connect with me
+
+## :bar_chart: Github Stats
 
 
-<a href="https://www.linkedin.com/in/phong-nguyen-b9520b22b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="typhoon1zero2" height="30" width="40"/></a>
-<a href="https://codesandbox.com/typhoon1zero2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="typhoon1zero2" height="30" width="40"/></a>
+<!-- <a href="#">
+  <img
+    title="🔥 Get streak stats for your profile at git.io/streak-stats"
+    alt="typhoon1zero2's streak"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=typhoon1zero2"
+  />
+</a> -->
+<img
+  alt="typhoon1zero2's Github Stats"
+  src="https://github-readme-stats.vercel.app/api?username=typhoon1zero2"
+  height="207px"
+/>
+<img
+  alt="typhoon1zero2's Top Languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=typhoon1zero2"
+  height="207px"
+/>
 
-📫 How to reach me **ptnguyen617@yahoo.com**
+<br />
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=typhoon1zero2&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+## :earth_asia: Connect with me...
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=typhoon1zero2&show_icons=true&locale=en&layout=compact" alt="typhoon1zero2" /></p>
+<p>
+  <a href="https://www.linkedin.com/in/phong-nguyen-b9520b22b/">
+    <img
+      src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+  <a href="mailto:typhoon1zero2@gmail.com">
+    <img
+      src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
+<a href="https://codesandbox.com/typhoon1zero2" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="typhoon1zero2" height="30" width="40"/></a>
 
-
-
+</p>
 <!---
 typhoon1zero2/typhoon1zero2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
