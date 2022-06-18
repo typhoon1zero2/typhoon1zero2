@@ -5,7 +5,7 @@
 <br />
 <br />
  
-`I am currently a full-stack software engineer student at General Assembly. 
+`I am a full-stack developer. Coding is my passion and I am proficient in writing HTML, CSS, JavaScript, Node.js, and React. I am a recent graduate of the General Assembly Software Engineering Immersive Course.
  Here is a list of my skills:`
 
 ### Languages and Tools
