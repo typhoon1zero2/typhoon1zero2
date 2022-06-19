@@ -30,22 +30,11 @@
 
 
 <!-- <a href="#">
-  <img
-    title="🔥 Get streak stats for your profile at git.io/streak-stats"
-    alt="typhoon1zero2's streak"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=typhoon1zero2"
-  />
-</a> -->
-<img
-  alt="typhoon1zero2's Github Stats"
-  src="https://github-readme-stats.vercel.app/api?username=typhoon1zero2"
-  height="207px"
-/>
-<img
-  alt="typhoon1zero2's Top Languages"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=typhoon1zero2"
-  height="207px"
-/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=typhoon1zero2&show_icons=true&locale=en&layout=compact" alt="phong-nguyen" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=typhoon1zero2&show_icons=true&locale=en" alt="phong-nguyen" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=typhoon1zero2&" alt="phong-nguyen" /></p>
 
 <br />
 
