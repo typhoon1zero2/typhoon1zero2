@@ -28,8 +28,6 @@
 
 ## :bar_chart: Github Stats
 
-
-<!-- <a href="#">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=typhoon1zero2&show_icons=true&locale=en&layout=compact" alt="phong-nguyen" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=typhoon1zero2&show_icons=true&locale=en" alt="phong-nguyen" /></p>
