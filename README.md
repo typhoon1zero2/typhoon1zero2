@@ -3,7 +3,7 @@
 <br />
 👋 Hi, I’m Phong Nguyen. 
 <br />
-`I am currently working in Japan :japan:	 as Engineer Field I for The Department of The Navy`
+- I am currently working in Japan :japan:	 as Engineer Field I for The Department of The Navy
 
 <br />
  
