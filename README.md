@@ -2,8 +2,9 @@
 <hr />
 <br />
 👋 Hi, I’m Phong Nguyen. 
-`I am currently working in Japan as Engineer Field I for The Department of The Navy`
 <br />
+I am currently working in Japan :japan:	 as Engineer Field I for The Department of The Navy
+
 <br />
  
 `I am a full-stack developer. Coding is my passion and I am proficient in writing HTML, CSS, JavaScript, Node.js, and React. I am a recent graduate of the General Assembly Software Engineering Immersive Course.
