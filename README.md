@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-typhoon1zero2&label=PROFILE+VIEWS)
 <hr />
 <br />
-👋 Hi, I’m Phong Nguyen and currently in Japan :japan: as Field Engineering for *The Department of The Navy*
+👋 Hi, I’m Phong Nguyen and currently working in Japan :japan: as Field Engineering for The Department of The Navy
 <br />
 <br />
  
